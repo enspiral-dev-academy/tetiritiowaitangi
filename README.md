@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Te Tiriti o Waitangi Domain Names
 
-You can use the [editor on GitHub](https://github.com/enspiral-dev-academy/tetiritiowaitangi/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Kia ora.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a placeholder site for some domain names we're parking for future resources about Te Tiriti o Waitangi.
 
-### Markdown
+The domain names that will redirect to this page are:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* tetiritiowaitangi.nz
+* tetiritiowaitangi.org
+* tetiritiowaitangi.co.nz
+* tetiritiowaitangi.org.nz
 
-```markdown
-Syntax highlighted code block
+If you would like to manage one or all of these domain names for your work, please [get in touch](mailto:hello@devacademy.co.nz?subject=tetiritiowaitangi.nz) with us about your project and ideas and we'll consider transfering them to you or adjusting them for your needs.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/enspiral-dev-academy/tetiritiowaitangi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We purchased these domain names because Te Tiriti o Waitangi, and being good treaty partners, is very important to [Enspiral Dev Academy](https://devacademy.co.nz). If you're reading this, we have not yet had the time to replace this text with an explanation of why we think it is important for all organisations in Aotearoa, New Zealand to be good treaty partners.
