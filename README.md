@@ -11,7 +11,7 @@ The domain names that will redirect to this page are:
 * tetiritiowaitangi.co.nz
 * tetiritiowaitangi.org.nz
 
-Currently they all redirect to https://tetiritiowaitangi.nz.
+Currently they all redirect to [https://tetiritiowaitangi.nz](https://tetiritiowaitangi.nz).
 
 If you would like to manage some or all of these domain names for your work, please [get in touch](mailto:hello@devacademy.co.nz?subject=tetiritiowaitangi.nz) with us about your project and ideas and we'll consider transfering them to you or adjusting them for your needs.
 
