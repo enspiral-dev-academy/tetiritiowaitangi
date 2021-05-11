@@ -1,4 +1,4 @@
-## Te Tiriti o Waitangi Domain Names
+## Te Tiriti o Waitangi
 
 Kia ora.
 
