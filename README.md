@@ -1,5 +1,3 @@
-# Te Tiriti o Waitangi
-
 Kia ora.
 
 This is a placeholder site for some domain names we're parking for future resources about Te Tiriti o Waitangi.
